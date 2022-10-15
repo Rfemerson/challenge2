@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+}
+
+div {
+    width: 1349px;
+}
+
+footer {
+    margin: -5px 0;
+    padding: 25px;
+    padding-left: 150px;
+    background-color: #e5f4f5;
+}
+
+#home {
+    width: 1349px;
+}
+
+#office {
+    width: 250px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    border: 15px solid #072933;
+    border-radius: 500px;
+}
+
+#logo {
+    width: 250px;
+    margin-bottom: 25px;
+    margin-right: 90px;
+    border: 15px solid #072933;
+    border-radius: 500px;
+}
+
+#profile {
+    width: 250px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    border: 15px solid #072933;
+    border-radius: 500px;
+    
+}
