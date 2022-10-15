@@ -1,9 +1,7 @@
 body {
-    margin: 0px;
-}
-
-div {
-    width: 1349px;
+    margin: 0px auto;
+    padding: 0;
+    max-width: 1600px;
 }
 
 footer {
